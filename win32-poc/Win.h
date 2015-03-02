@@ -1,0 +1,2 @@
+HWND hCloseBTN;
+#define BUTTON_CLOSE 40000
